@@ -1,0 +1,17 @@
+{
+	"name": "babel-presets",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"build:scripts": "babel ./src --out-dir=./dist"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@babel/cli": "^7.24.8",
+		"@babel/core": "^7.25.2",
+		"@babel/preset-env": "^7.25.3"
+	}
+}
