@@ -1,0 +1,21 @@
+{
+	"name": "task2-npm-packages-vers",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@babel/cli": "^7.24.8",
+		"@babel/core": "^7.25.2"
+	},
+	"dependencies": {
+		"core-js": "^3.38.0",
+		"react": "16.5.*",
+		"react-dom": "16.5.*"
+	}
+}
