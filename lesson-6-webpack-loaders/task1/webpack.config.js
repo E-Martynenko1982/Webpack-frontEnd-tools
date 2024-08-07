@@ -1,4 +1,4 @@
-const { rules } = require("eslint-config-airbnb-base");
+
 
 module.exports = {
   entry: './src/index.js',
